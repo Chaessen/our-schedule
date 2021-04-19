@@ -2,4 +2,4 @@
 
 #our opensource project
 
-#윗 내용 전부 지웠음!!
+#0419 - 메인화면 제작 (장준규)
